@@ -1,4 +1,4 @@
-package com.divya.bookapp.model;
+package com.divya.bookapp.model; 
 
 public class Book {
 	private Integer id;
